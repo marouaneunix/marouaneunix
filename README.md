@@ -4,7 +4,7 @@
 ### About
 
 -  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	
--  **Languages :** Python, C, JavaScript
+-  **Languages :** Java, JavaScript, React, Angular
 -  **Hobbies :** Articles & Music :headphones:
 -  **Fact :** First solve the problem, then write the code :heart: 
 -  **Organization :** Technojam
@@ -16,5 +16,5 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-⭐️ From [Isha Gupta](https://github.com/Isha2103)
+⭐️ From [EL MERROUNI MAROUANE](https://github.com/Isha2103)
 
