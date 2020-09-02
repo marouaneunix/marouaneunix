@@ -7,7 +7,7 @@
 -  **Languages :** Java, JavaScript, React, Angular
 -  **Hobbies :** Articles & Music :headphones:
 -  **Fact :** First solve the problem, then write the code :heart: 
--  **Organization :** Technojam
+-  **Organization :** Norsys
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
