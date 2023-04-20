@@ -1,6 +1,8 @@
 ### EL MERROUNI MAROUANE
 [![Twitter Badge](https://img.shields.io/twitter/url?label=EL%20MERROUNI%20MAROUANE&style=social&url=https%3A%2F%2Fshields.io)](https://twitter.com/marunix1)
-![portfolio](https://www.merrouni.dev/)
+
+[![Twitter Badge](https://img.shields.io/badge/portfolio-merrouni.dev-blue)](https://merrouni.dev)
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
