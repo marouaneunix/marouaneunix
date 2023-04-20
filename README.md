@@ -1,5 +1,6 @@
 ### EL MERROUNI MAROUANE
-[![Twitter Badge](https://img.shields.io/twitter/url?label=EL%20MERROUNI%20MAROUANE&style=social&url=https%3A%2F%2Fshields.io)](https://twitter.com/marunix1) 
+[![Twitter Badge](https://img.shields.io/twitter/url?label=EL%20MERROUNI%20MAROUANE&style=social&url=https%3A%2F%2Fshields.io)](https://twitter.com/marunix1)
+![portfolio](https://www.merrouni.dev/)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
@@ -12,7 +13,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=marouaneunix&show_icons=true)
-![portfolio](https://www.merrouni.dev/)
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
